@@ -33,7 +33,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#extra">Extra Curricular</a></li>
                 </ul>
             </div>
-            <div>
+            <div class="d-none d-lg-block">
               <h3 style=color:white;>Demo Portfolio</h2>
                 <a style=color:white href="https://drive.google.com/drive/folders/1AF9dgQH-aMAy_Tk7jFBHSEMKgkL2nT1p?usp=sharing"><i class="fab fa-product-hunt fa-7x"></i></a>
             </div>
