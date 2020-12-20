@@ -52,7 +52,7 @@
                         <a href="mailto:jonathandanner99@gmail.com">jonathandanner99@gmail.com</a>
                     </div>
                     <p class="lead mb-5">
-Goal driven student with strengths in recording, editing, mixing, producing, and composing. Offering a diverse background with expertise in music theory, psychoacoustics, recording technology and music performance. A down-to-earth, fun loving individual with strong professional and organizational skills.</p>
+Goal-driven student with strengths in recording, editing, mixing, producing, and composing. Offering a diverse background with expertise in music theory, psychoacoustics, recording technology and music performance. A down-to-earth, fun loving individual with strong professional and organizational skills.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/jonathan-danner/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://soundcloud.com/user-241717973"><i class="fab fa-soundcloud"></i></a>
@@ -71,7 +71,7 @@ Goal driven student with strengths in recording, editing, mixing, producing, and
                             <div class="subheading mb-3">North Carolina National Guard</div>
                             <ul>
                               <li>Section Leader</li>
-                              <li>Performs for thousands of civilians military personnel, federal and sate political leaders.</li>
+                              <li>Performs for thousands of civilians, military personnel, federal and state political leaders.</li>
                               <li>Manages soldiers and fosters cohesion within the military and between local/international communities</li>
                               <li>Transposes music to alternative keys for different instruments with speed and accuracy</li>
                             </ul>
@@ -82,7 +82,7 @@ Goal driven student with strengths in recording, editing, mixing, producing, and
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Intern</h3>
                             <div class="subheading mb-3">Hope City Ministry</div>
-                            <p>Helped with Live performances in ministry by extending knowledge of Ableton programming and useful tips to help musicians engage with the audience more. Assisted with live sound reinforcement, setup/teardown, and photography during worship and assisted with ministry tour to Myrtle Beach.</p>
+                            <p>Helped with Live performances in ministry by extending knowledge of Ableton programming and useful tips to help musicians engage with the audience more. Assisted with live sound reinforcement, setup/teardown, photography during worship and assisted with ministry tour to Myrtle Beach.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">Summer 2019</span></div>
                     </div>
@@ -117,8 +117,8 @@ Goal driven student with strengths in recording, editing, mixing, producing, and
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Western Carolina University</h3>
-                            <div class="subheading mb-3">Bachelors of Music</div>
-                                  <div>Comercial Music and Audio Production</div>
+                            <div class="subheading mb-3">Bachelor of Music</div>
+                                  <div>Commercial Music and Audio Production</div>
                             <p>GPA: 3.14</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">January 2016 - May 2020</span></div>
@@ -200,7 +200,7 @@ Goal driven student with strengths in recording, editing, mixing, producing, and
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
                     <p>In addition to my musical skills and interests, I enjoy many outdoor activities. I enjoy hiking, snowboarding, kayaking, and sightseeing.
-                    I have a nerdy side too. When I'm not making music or doing something outdoors, I like to experiment around with my arduino and play strategy video games.</p>
+                    I have a nerdy side too. When I'm not making music or doing something outdoors, I like to experiment around with my arduino and play strategy games.</p>
                 </div>
             </section>
             <hr class="m-0" />
